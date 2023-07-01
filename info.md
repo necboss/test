@@ -1,2 +1,2 @@
 # Instrukcia
-+ git checkout <naz vetki> - perehod k drugoi vetke
++ git checkout naz_vetki - perehod k drugoi vetke
