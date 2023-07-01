@@ -3,3 +3,6 @@
 + git branch naz vetki - sozd nov vetku
 + git checkout naz_vetki - perehod k drugoi vetke
 + git branch -d naz_vetki - udalit' vetku
+
+* dom-1
+ 
